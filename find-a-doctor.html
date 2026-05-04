@@ -1,0 +1,42 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleMy Websitetitle
+    style
+         Basic styling for tabs 
+        .tabs {
+            display flex;
+            cursor pointer;
+            background-color #f1f1f1;
+        }
+        .tab {
+            padding 14px 20px;
+            margin 0;
+            border 1px solid #ddd;
+            text-align center;
+            background-color #ddd;
+        }
+        .tabhover {
+            background-color #ccc;
+        }
+        .tab.active {
+            background-color white;
+            border-bottom 1px solid white;
+        }
+    style
+head
+body
+    div class=tabs
+        a href=find-a-doctor.html class=tabFind a Doctora
+        a href=another-page.html class=tabAnother Pagea
+        !-- Add more tabs as needed --
+    div
+
+    !-- Content of the page --
+    div id=content
+        !-- Content will be loaded here based on the tab clicked --
+    div
+body
+html

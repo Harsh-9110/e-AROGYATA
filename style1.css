@@ -1,0 +1,2237 @@
+.com {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.com .harshoffical-com {
+  background-color: var(--harsh-0-9officialwixsitecomwhite);
+  overflow-x: hidden;
+  width: 1440px;
+  height: 900px;
+  position: relative;
+}
+
+.com .overlap {
+  position: absolute;
+  width: 1627px;
+  height: 2297px;
+  top: -8px;
+  left: -179px;
+}
+
+.com .container {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 50px;
+  position: absolute;
+  top: 8px;
+  left: 179px;
+}
+
+.com .background-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+}
+
+.com .background {
+  position: relative;
+  width: 1440px;
+  height: 2238px;
+  top: 50px;
+  background-color: var(--harsh09officialwixsitecomquarter-spanish-white);
+}
+
+.com .container-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  min-height: 2237.56px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .overlap-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 2237.56px;
+}
+
+.com .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 2120px;
+  top: 118px;
+}
+
+.com .main {
+  width: 1440px;
+  height: 1594px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.com .section {
+  flex-direction: column;
+  min-width: 980px;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .div {
+  position: absolute;
+  width: 1440px;
+  height: 1594px;
+  top: 0;
+  left: 0;
+  background-color: var(--harsh-0-9officialwixsitecomwhite);
+}
+
+.com .overlap-group-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1593.56px;
+}
+
+.com .overlap-2 {
+  position: relative;
+  width: 1440px;
+  height: 1594px;
+}
+
+.com .margin {
+  display: flex;
+  flex-direction: column;
+  width: 1210px;
+  align-items: flex-start;
+  padding: 84px 0px 10px 230px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.com .heading-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 980px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .heading {
+  align-self: stretch;
+  width: 100%;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper {
+  position: absolute;
+  width: 405px;
+  height: 136px;
+  top: -68px;
+  left: 287px;
+  font-family: var(--harsh09official-wixsite-com-montserrat-bold-56-font-family);
+  font-weight: var(--harsh09official-wixsite-com-montserrat-bold-56-font-weight);
+  color: var(--harsh-0-9officialwixsitecommidnight);
+  font-size: var(--harsh09official-wixsite-com-montserrat-bold-56-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-montserrat-bold-56-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-montserrat-bold-56-line-height);
+  font-style: var(--harsh09official-wixsite-com-montserrat-bold-56-font-style);
+}
+
+.com .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 980px;
+  align-items: flex-start;
+  padding: 0px 0px 42px 230px;
+  position: absolute;
+  top: 162px;
+  left: 115px;
+}
+
+.com .container-2 {
+  display: flex;
+  flex-direction: column;
+  width: 750px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 238.62px 0px 238.61px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-bold-17-97-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-bold-17-97-font-weight);
+  color: var(--harsh-0-9officialwixsitecommidnight);
+  font-size: var(--harsh09official-wixsite-com-inter-bold-17-97-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-bold-17-97-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-bold-17-97-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-bold-17-97-font-style);
+}
+
+.com .margin-2 {
+  display: flex;
+  flex-direction: column;
+  width: 888px;
+  align-items: flex-start;
+  padding: 0px 0px 70px 230px;
+  position: absolute;
+  top: 228px;
+  left: 161px;
+}
+
+.com .container-4 {
+  display: flex;
+  flex-direction: column;
+  width: 658px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .this-is-this-team-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 2.61px 0px 2.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .this-is-this-team {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-bold-16-45-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-bold-16-45-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-bold-16-45-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-bold-16-45-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-bold-16-45-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-bold-16-45-font-style);
+}
+
+.com .margin-3 {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 378px;
+  left: 0;
+}
+
+.com .list-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1215px;
+  overflow: hidden;
+}
+
+.com .list {
+  position: relative;
+  width: 1480px;
+  height: 1115px;
+  top: 30px;
+  left: -20px;
+}
+
+.com .listitem {
+  top: 20px;
+  left: 72px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .container-5 {
+  position: absolute;
+  width: 648px;
+  height: 345px;
+  top: 0;
+  left: 0;
+  background-color: var(--harsh09officialwixsitecommercury-80);
+}
+
+.com .container-6 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 344.78px;
+}
+
+.com .wow-image-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 344px;
+  height: 344px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.com .wow-image {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.com .IMG-edited-jpg {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-2698-edited-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .overlap-group-2 {
+  position: absolute;
+  width: 258px;
+  height: 252px;
+  top: 0;
+  left: 360px;
+}
+
+.com .margin-4 {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  align-items: flex-start;
+  padding: 51.3px 0px 9px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.com .container-7 {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-25-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-25-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-25-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-25-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-25-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-25-font-style);
+}
+
+.com .margin-5 {
+  display: flex;
+  flex-direction: column;
+  width: 233px;
+  align-items: flex-start;
+  padding: 0px 0px 62px;
+  position: absolute;
+  top: 83px;
+  left: 0;
+}
+
+.com .container-9 {
+  display: flex;
+  flex-direction: column;
+  width: 233px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.com .margin-6 {
+  display: flex;
+  flex-direction: column;
+  width: 228px;
+  align-items: flex-start;
+  padding: 0px 0px 15px;
+  position: absolute;
+  top: 173px;
+  left: 0;
+}
+
+.com .container-11 {
+  display: flex;
+  flex-direction: column;
+  width: 228px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .link-info-mysite-com {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-14-88-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-14-88-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-14-88-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-14-88-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-14-88-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-14-88-font-style);
+}
+
+.com .margin-7 {
+  display: flex;
+  flex-direction: column;
+  width: 222px;
+  min-height: 41px;
+  align-items: flex-start;
+  padding: 0px 0px 16px;
+  position: absolute;
+  top: 211px;
+  left: 0;
+}
+
+.com .container-12 {
+  display: flex;
+  flex-direction: column;
+  width: 222px;
+  min-height: 25px;
+  align-items: flex-start;
+  padding: 0px 0px 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-5 {
+  line-height: normal;
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: 13.6px;
+  letter-spacing: 0;
+}
+
+.com .margin-8 {
+  display: flex;
+  flex-direction: column;
+  width: 83px;
+  height: 29px;
+  align-items: flex-start;
+  padding: 0px 0px 6px;
+  position: absolute;
+  top: 252px;
+  left: 360px;
+}
+
+.com .list-social-bar-wrapper {
+  position: relative;
+  width: 83px;
+  height: 23px;
+}
+
+.com .list-social-bar {
+  display: flex;
+  width: 83px;
+  height: 23px;
+  align-items: flex-start;
+  gap: 7px;
+  position: relative;
+}
+
+.com .item {
+  width: 23px;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .wow-image-wrapper-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .wow-image-b {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-2 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png-4.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-3 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-60c5fc4a3ecd49f2a697206b09eeace1-mv2-png-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .margin-9 {
+  display: flex;
+  flex-direction: column;
+  width: 142px;
+  height: 64px;
+  align-items: flex-start;
+  padding: 0px 0px 24px;
+  position: absolute;
+  top: 281px;
+  left: 479px;
+}
+
+.com .button-book-now-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 142px;
+  height: 40px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.com .button-book-now {
+  display: flex;
+  flex-direction: column;
+  min-width: 10px;
+  min-height: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-color: #428d78;
+}
+
+.com .container-13 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 11.5px 34.96px 11.5px 30.95px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.com .container-14 {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 25.2px;
+  max-width: 142px;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.45px;
+  margin-right: -0.45px;
+}
+
+.com .text-wrapper-6 {
+  width: fit-content;
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-13-78-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-13-78-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-13-78-line-height);
+  position: relative;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-13-78-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-13-78-font-weight);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-13-78-font-style);
+}
+
+.com .listitem-2 {
+  top: 20px;
+  left: 760px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .IMG-edited-jpg-2 {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-3981-edited-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .overlap-group-3 {
+  position: absolute;
+  width: 258px;
+  height: 281px;
+  top: 0;
+  left: 360px;
+}
+
+.com .margin-10 {
+  display: flex;
+  flex-direction: column;
+  width: 222px;
+  min-height: 41px;
+  align-items: flex-start;
+  padding: 0px 0px 16px;
+  position: absolute;
+  top: 210px;
+  left: 0;
+}
+
+.com .container-15 {
+  display: flex;
+  flex-direction: column;
+  width: 222px;
+  min-height: 25px;
+  align-items: flex-start;
+  padding: 0px 0px 2.61px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-7 {
+  line-height: var(--harsh09official-wixsite-com-inter-regular-13-63-line-height);
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-13-63-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-13-63-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-13-63-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-13-63-letter-spacing);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-13-63-font-style);
+}
+
+.com .margin-11 {
+  display: flex;
+  flex-direction: column;
+  width: 83px;
+  height: 29px;
+  align-items: flex-start;
+  padding: 0px 0px 6px;
+  position: absolute;
+  top: 252px;
+  left: 0;
+}
+
+.com .wow-image-4 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png-4.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-5 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-6 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-60c5fc4a3ecd49f2a697206b09eeace1-mv2-png-5.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .listitem-3 {
+  top: 405px;
+  left: 72px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .IMG-edited {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-4184-edited-edited-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .text-wrapper-8 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-38-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-38-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-38-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-38-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-38-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-38-font-style);
+}
+
+.com .wow-image-7 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png-6.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-8 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png-6.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-9 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-60c5fc4a3ecd49f2a697206b09eeace1-mv2-png-3.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .listitem-4 {
+  top: 405px;
+  left: 760px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .IMG-edited-2 {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-4499-20-1-edited-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-13-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-13-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-13-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-13-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-13-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-13-font-style);
+}
+
+.com .wow-image-10 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-11 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-12 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-60c5fc4a3ecd49f2a697206b09eeace1-mv2-png-4.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .listitem-5 {
+  top: 790px;
+  left: 72px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .IMG-edited-3 {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-4691-20-1-edited-edited-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-13 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png-5.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-14 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png-5.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-15 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/image.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .listitem-6 {
+  top: 790px;
+  left: 760px;
+  display: flex;
+  flex-direction: column;
+  width: 648px;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.com .IMG-edited-4 {
+  position: relative;
+  max-width: 344px;
+  width: 344px;
+  height: 344px;
+  background-image: url(./img/IMG-2870-20-1-edited-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-font-style);
+}
+
+.com .wow-image-16 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-366f7fdbcafc4effaeddb0dba92014c1-mv2-png-3.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-17 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-681c6c82d3344ca09a024b18998e0f66-mv2-png-3.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-18 {
+  width: 23px;
+  height: 23px;
+  background-image: url(./img/wow-image-11062b-60c5fc4a3ecd49f2a697206b09eeace1-mv2-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .footer {
+  display: flex;
+  width: 1440px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 1564px;
+  left: 0;
+  background-color: transparent;
+}
+
+.com .section-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.com .section-2 {
+  min-width: 980px;
+  justify-content: center;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-16 {
+  position: absolute;
+  width: 1440px;
+  height: 556px;
+  top: 0;
+  left: 0;
+  background-color: var(--harsh-0-9officialwixsitecommidnight);
+}
+
+.com .container-17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0.02px 0px 0px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.com .container-18 {
+  display: flex;
+  flex-direction: column;
+  width: 479.02px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.com .container-19 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 556px;
+}
+
+.com .overlap-group-4 {
+  position: relative;
+  width: 328px;
+  height: 461px;
+  left: 37px;
+}
+
+.com .img {
+  position: absolute;
+  width: 118px;
+  height: 188px;
+  top: 0;
+  left: 1px;
+}
+
+.com .margin-12 {
+  display: flex;
+  flex-direction: column;
+  width: 276px;
+  align-items: flex-start;
+  padding: 93px 0px 10px 76.5px;
+  position: absolute;
+  top: 0;
+  left: 52px;
+}
+
+.com .container-20 {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-11 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-montserrat-bold-20-font-family);
+  font-weight: var(--harsh09official-wixsite-com-montserrat-bold-20-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-montserrat-bold-20-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-montserrat-bold-20-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-montserrat-bold-20-line-height);
+  font-style: var(--harsh09official-wixsite-com-montserrat-bold-20-font-style);
+}
+
+.com .margin-13 {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+  align-items: flex-start;
+  padding: 0px 0px 70px 76.5px;
+  position: absolute;
+  top: 187px;
+  left: 1px;
+}
+
+.com .container-21 {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .delhi {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-16-73-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-16-73-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-16-73-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-16-73-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-16-73-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-16-73-font-style);
+}
+
+.com .margin-14 {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+  align-items: flex-start;
+  padding: 0px 0px 10px 76.5px;
+  position: absolute;
+  top: 285px;
+  left: 0;
+}
+
+.com .link-home-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.58px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .link-home {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-16-2-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-16-2-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-16-2-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-16-2-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-16-2-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-16-2-font-style);
+}
+
+.com .container-23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -0.6px;
+}
+
+.com .text-wrapper-12 {
+  align-self: stretch;
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-16-34-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-16-34-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-16-34-line-height);
+  position: relative;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-16-34-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-16-34-font-weight);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-16-34-font-style);
+}
+
+.com .text-wrapper-13 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-94-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-94-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-94-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-94-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-94-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-94-font-style);
+}
+
+.com .container-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.58px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -0.6px;
+}
+
+.com .consult-online {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-17-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-17-font-weight);
+  color: transparent;
+  font-size: var(--harsh09official-wixsite-com-inter-regular-17-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-17-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-17-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-17-font-style);
+}
+
+.com .span {
+  color: #ffffff;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-17-font-family);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-17-font-style);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-17-font-weight);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-17-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-17-line-height);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-17-font-size);
+}
+
+.com .text-wrapper-14 {
+  color: #000000;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-17-font-family);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-17-font-style);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-17-font-weight);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-17-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-17-line-height);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-17-font-size);
+}
+
+.com .container-25 {
+  display: flex;
+  flex-direction: column;
+  width: 480.48px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.com .container-26 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 555.56px;
+}
+
+.com .overlap-group-5 {
+  position: absolute;
+  width: 327px;
+  height: 312px;
+  top: 0;
+  left: 27px;
+}
+
+.com .margin-15 {
+  display: flex;
+  flex-direction: column;
+  width: 327px;
+  align-items: flex-start;
+  padding: 93px 0px 18px 76.73px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.com .container-27 {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .margin-16 {
+  display: flex;
+  flex-direction: column;
+  width: 297px;
+  align-items: flex-start;
+  padding: 0px 0px 57px 76.73px;
+  position: absolute;
+  top: 134px;
+  left: 0;
+}
+
+.com .link-customers {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-8-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-8-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-8-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-8-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-8-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-8-font-style);
+}
+
+.com .link-careers {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-67-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-67-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-67-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-67-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-67-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-67-font-style);
+}
+
+.com .margin-17 {
+  display: flex;
+  flex-direction: column;
+  width: 327px;
+  align-items: flex-start;
+  padding: 0px 0px 14px 76.73px;
+  position: absolute;
+  top: 274px;
+  left: 0;
+}
+
+.com .comming-soon {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-montserrat-regular-20-font-family);
+  font-weight: var(--harsh09official-wixsite-com-montserrat-regular-20-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-montserrat-regular-20-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-montserrat-regular-20-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-montserrat-regular-20-line-height);
+  font-style: var(--harsh09official-wixsite-com-montserrat-regular-20-font-style);
+}
+
+.com .margin-18 {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  align-items: flex-start;
+  padding: 0px 0px 70px 76.73px;
+  position: absolute;
+  top: 312px;
+  left: 27px;
+}
+
+.com .container-28 {
+  display: flex;
+  flex-direction: column;
+  width: 303px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .container-30 {
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.com .container-31 {
+  display: flex;
+  flex-direction: column;
+  width: 303px;
+  max-height: 99999px;
+  height: 43px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.com .container-32 {
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.com .container-33 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-34 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-35 {
+  display: flex;
+  height: 43px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.com .margin-19 {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 43px;
+  align-items: flex-start;
+  padding: 0px 6px 0px 0px;
+  position: relative;
+}
+
+.com .link-wrapper {
+  position: relative;
+  width: 144px;
+  height: 43px;
+}
+
+.com .link {
+  display: flex;
+  flex-direction: column;
+  width: 144px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.com .picture {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .apple-png {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-image: url(./img/apple-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .margin-20 {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 43px;
+  align-items: flex-start;
+  padding: 0px 0px 0px 6px;
+  position: relative;
+}
+
+.com .google-png {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-image: url(./img/google-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .margin-21 {
+  display: flex;
+  flex-direction: column;
+  width: 927px;
+  min-height: 131px;
+  align-items: flex-start;
+  padding: 0px 0px 64px 76.73px;
+  position: absolute;
+  top: 425px;
+  left: -238px;
+}
+
+.com .container-36 {
+  display: flex;
+  flex-direction: column;
+  width: 850px;
+  min-height: 67px;
+  align-items: flex-start;
+  padding: 0px 0px 50px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-37 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 352.06px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .p {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-12-8-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-12-8-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-12-8-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-12-8-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-12-8-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-12-8-font-style);
+}
+
+.com .overlap-group-6 {
+  position: relative;
+  width: 337px;
+  height: 424px;
+  left: 20px;
+}
+
+.com .margin-22 {
+  display: flex;
+  flex-direction: column;
+  width: 327px;
+  align-items: flex-start;
+  padding: 93px 0px 18px 76.73px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+.com .margin-23 {
+  display: flex;
+  flex-direction: column;
+  width: 297px;
+  align-items: flex-start;
+  padding: 0px 0px 30px 76.73px;
+  position: absolute;
+  top: 134px;
+  left: 10px;
+}
+
+.com .button-dialog-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .button-dialog {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-67-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-67-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-67-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-67-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-67-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-67-font-style);
+}
+
+.com .link-book-an {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: 16.5px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+}
+
+.com .text-wrapper-15 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-16-07-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-16-07-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-16-07-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-16-07-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-16-07-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-16-07-font-style);
+}
+
+.com .link-privacy-policy {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-15-27-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-15-27-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-15-27-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-15-27-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-15-27-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-15-27-font-style);
+}
+
+.com .margin-24 {
+  display: flex;
+  flex-direction: column;
+  width: 261px;
+  height: 42px;
+  align-items: flex-start;
+  padding: 0px 0px 10px 76.73px;
+  position: absolute;
+  top: 382px;
+  left: 0;
+}
+
+.com .container-38 {
+  position: relative;
+  width: 184px;
+  height: 32px;
+}
+
+.com .list-social-bar-2 {
+  display: flex;
+  width: 184px;
+  height: 32px;
+  align-items: flex-start;
+  gap: 6px;
+  position: relative;
+}
+
+.com .item-2 {
+  width: 32px;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .wow-image-19 {
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/wow-image-23fd2a2be53141ed810f4d3dcdcd01fa-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-20 {
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/wow-image-81af6121f84c41a5b4391d7d37fce12a-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-21 {
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/wow-image-01ab6619093f45388d66736ec22e5885-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-22 {
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/wow-image-7528824071724d12a3e6c31eee0b40d4-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .wow-image-23 {
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/wow-image-203dcdc2ac8b48de89313f90d2a4cda1-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.com .header {
+  display: flex;
+  flex-direction: column;
+  width: 1627px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.com .container-39 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .margin-25 {
+  position: relative;
+  width: 284px;
+  height: 118px;
+}
+
+.com .section-margin {
+  display: flex;
+  flex-direction: column;
+  width: 1300px;
+  align-items: center;
+  padding: 14px 0px 0px;
+  position: relative;
+  margin-left: -27px;
+}
+
+.com .section-3 {
+  width: 1300px;
+  justify-content: center;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-40 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.com .container-41 {
+  display: flex;
+  flex-direction: column;
+  width: 181.73px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.com .container-42 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px 13.73px 45px 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .container-43 {
+  display: flex;
+  flex-direction: column;
+  width: 156px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .link-cityhospital {
+  position: relative;
+  width: 186px;
+  margin-top: -1px;
+  margin-right: -30px;
+  font-family: var(--harsh09official-wixsite-com-montserrat-bold-24-font-family);
+  font-weight: var(--harsh09official-wixsite-com-montserrat-bold-24-font-weight);
+  color: #428d78;
+  font-size: var(--harsh09official-wixsite-com-montserrat-bold-24-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-montserrat-bold-24-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-montserrat-bold-24-line-height);
+  font-style: var(--harsh09official-wixsite-com-montserrat-bold-24-font-style);
+}
+
+.com .container-44 {
+  display: flex;
+  flex-direction: column;
+  width: 1118.27px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.com .container-45 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 4px 0px 19px 48.27px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .container-46 {
+  display: flex;
+  flex-direction: column;
+  width: 1096px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -26px;
+}
+
+.com .background-shadow {
+  position: absolute;
+  width: 1096px;
+  height: 81px;
+  top: 0;
+  left: 0;
+  background-color: var(--harsh-0-9officialwixsitecomwhite);
+  border-radius: 100px;
+  box-shadow: 0px 0px 16px #0000001a;
+}
+
+.com .container-47 {
+  display: flex;
+  flex-direction: column;
+  width: 1096px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .container-48 {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 0px 16px 0px 14px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.com .wix-dropdown-menu {
+  display: flex;
+  flex-direction: column;
+  height: 81px;
+  align-items: flex-start;
+  padding: 18px 0px 13px;
+  width: 867px;
+  position: relative;
+}
+
+.com .nav-site-wrapper {
+  height: 50px;
+  width: 867px;
+  position: relative;
+}
+
+.com .nav-site {
+  height: 50px;
+}
+
+.com .list-2 {
+  position: relative;
+  width: 867px;
+  height: 50px;
+  background-color: var(--harsh09officialwixsitecomwhite-rock);
+  border-radius: 80px;
+}
+
+.com .item-3 {
+  width: 174px;
+  justify-content: flex-end;
+  position: absolute;
+  top: -8px;
+  left: 0;
+  border-radius: 80px 0px 0px 80px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .link-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 5px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .container-49 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 35.79px 7.5px 37.03px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .text-wrapper-16 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-14-06-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-14-06-font-weight);
+  color: var(--harsh-0-9officialwixsitecomblack);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-14-06-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-14-06-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-14-06-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-14-06-font-style);
+}
+
+.com .item-4 {
+  width: 174px;
+  justify-content: flex-end;
+  position: absolute;
+  top: -8px;
+  left: 174px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .link-3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 5px 0px 6px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .container-50 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 48.71px 7.5px 50.48px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .text-wrapper-17 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-14-06-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-14-06-font-weight);
+  color: var(--harsh09officialwixsitecomdove-gray);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-14-06-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-14-06-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-14-06-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-14-06-font-style);
+}
+
+.com .item-5 {
+  width: 173px;
+  justify-content: flex-end;
+  position: absolute;
+  top: -8px;
+  left: 348px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .container-51 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 18.36px 7.5px 19.25px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .text-wrapper-18 {
+  position: relative;
+  width: 175px;
+  margin-top: -1px;
+  margin-left: -25.31px;
+  margin-right: -25.31px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-13-13-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-13-13-font-weight);
+  color: var(--harsh09officialwixsitecomdove-gray);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-13-13-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-13-13-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-13-13-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-13-13-font-style);
+}
+
+.com .item-6 {
+  width: 173px;
+  justify-content: flex-end;
+  position: absolute;
+  top: -8px;
+  left: 521px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .container-52 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 32.38px 7.5px 33.55px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .text-wrapper-19 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-13-95-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-13-95-font-weight);
+  color: var(--harsh09officialwixsitecomdove-gray);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-13-95-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-13-95-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-13-95-line-height);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-13-95-font-style);
+}
+
+.com .item-7 {
+  width: 173px;
+  justify-content: flex-end;
+  position: absolute;
+  top: -8px;
+  left: 694px;
+  border-radius: 0px 80px 80px 0px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.com .container-53 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 49.37px 7.5px 51.23px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.com .text-wrapper-20 {
+  align-self: stretch;
+  color: var(--harsh09officialwixsitecomdove-gray);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-13-01-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-13-01-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-13-01-line-height);
+  position: relative;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-13-01-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-13-01-font-weight);
+  font-style: var(--harsh09official-wixsite-com-inter-regular-13-01-font-style);
+}
+
+.com .margin-26 {
+  display: flex;
+  flex-direction: column;
+  width: 194px;
+  height: 81px;
+  align-items: flex-start;
+  padding: 15px 0px 16px;
+  position: relative;
+}
+
+.com .container-54 {
+  position: relative;
+  width: 194px;
+  height: 50px;
+}
+
+.com .link-4 {
+  height: 50px;
+  background-color: var(--harsh-0-9officialwixsitecomviridian);
+  border-radius: 30px;
+  border: 1px solid;
+  border-color: #428d78;
+}
+
+.com .container-55 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.9px;
+  position: relative;
+  top: 12px;
+  left: 12px;
+}
+
+.com .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-inter-regular-16-47-font-family);
+  font-weight: var(--harsh09official-wixsite-com-inter-regular-16-47-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-inter-regular-16-47-font-size);
+  letter-spacing: var(--harsh09official-wixsite-com-inter-regular-16-47-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-inter-regular-16-47-line-height);
+  white-space: nowrap;
+  font-style: var(--harsh09official-wixsite-com-inter-regular-16-47-font-style);
+}
+
+.com .main-2 {
+  width: 200px;
+  align-items: flex-end;
+  position: fixed;
+  top: 824px;
+  left: 1220px;
+  display: flex;
+  flex-direction: column;
+}
+
+.com .button-wrapper {
+  display: flex;
+  width: 200px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  min-width: 200px;
+  max-width: 340px;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 32.52px 15px 28.5px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.02px;
+  background-color: #428d78;
+  border-radius: 30px;
+  box-shadow: 0px 0px 3px #b6b4b480;
+}
+
+.com .SVG {
+  position: relative;
+  width: 26px;
+  height: 26px;
+}
+
+.com .heading-margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .heading-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.com .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--harsh09official-wixsite-com-montserrat-regular-18-font-family);
+  font-weight: var(--harsh09official-wixsite-com-montserrat-regular-18-font-weight);
+  color: var(--harsh-0-9officialwixsitecomwhite);
+  font-size: var(--harsh09official-wixsite-com-montserrat-regular-18-font-size);
+  text-align: center;
+  letter-spacing: var(--harsh09official-wixsite-com-montserrat-regular-18-letter-spacing);
+  line-height: var(--harsh09official-wixsite-com-montserrat-regular-18-line-height);
+  font-style: var(--harsh09official-wixsite-com-montserrat-regular-18-font-style);
+}

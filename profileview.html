@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Dropdown</title>
+    <link rel="stylesheet" href="stylesview.css">
+</head>
+<body>
+
+    <!-- Profile Dropdown -->
+    <div class="profile-container">
+        <div class="profile-logo">
+            <img src="OIG4.aqaX6q6.y.sAigl.jpeg" alt="Profile Logo" class="profile-pic" onclick="toggleDropdown()">
+        </div>
+        <div id="profileDropdown" class="dropdown-content">
+            <a href="myprofile.html">My Profile</a>
+            <a href="myprofile.html">Customize Chat</a>
+            <a href="myprofile.html">Settings</a>
+            <a href="myprofile.html">Upgrade Plan</a>
+            <a href="loginpage.html">Logout</a>
+        </div>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            var dropdown = document.getElementById("profileDropdown");
+            dropdown.classList.toggle("show");
+        }
+
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(event) {
+            if (!event.target.matches('.profile-pic')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 90%;
+    max-width: 500px;
+}
+
+.communication-options {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.communication-options label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.hidden {
+    display: none;
+}
+
+#waitingMessage p {
+    color: #333;
+    font-size: 16px;
+}
+
+/* Chat Window */
+.chat-window {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+}
+
+.messages {
+    height: 200px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+
+.message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.message.doctor {
+    background-color: #e0f7fa;
+    text-align: left;
+}
+
+.message.user {
+    background-color: #e1bee7;
+    text-align: right;
+}
+
+.chat-input {
+    width: calc(100% - 70px);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.send-btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Video Placeholder */
+.video-call-window {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.video-placeholder {
+    background-color: #ddd;
+    padding: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+}

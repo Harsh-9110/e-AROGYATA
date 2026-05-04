@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicine Store</title>
+    <link rel="stylesheet" href="stylesmed.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Online Medicine Store</h1>
+    </header>
+
+    <main>
+        <h2>Medicine List</h2>
+        <ul class="medicine-list">
+            <li>Paracetamol <button onclick="addToCart('Paracetamol')">Add to Cart</button></li>
+            <li>Aciloc <button onclick="addToCart('Aciloc')">Add to Cart</button></li>
+            <li>Aspirin <button onclick="addToCart('Aspirin')">Add to Cart</button></li>
+            <li>Ibuprofen <button onclick="addToCart('Ibuprofen')">Add to Cart</button></li>
+            <li>Metformin <button onclick="addToCart('Metformin')">Add to Cart</button></li>
+            <!-- Add more medicines here up to 20 -->
+        </ul>
+
+        <a href="cart.html" class="button">Go to Cart</a>
+    </main>
+
+    <script>
+        function addToCart(medicine) {
+            alert(medicine + " has been added to your cart!");
+            // Add functionality to store cart items in localStorage or any backend system.
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login/Logout Button</title>
+    <style>
+        /* General styles */
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Fixed button styles */
+        #authButton {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            z-index: 1000; /* Make sure it's above other elements */
+        }
+
+        #authButton:hover {
+            background-color: #45a049;
+        }
+
+        /* Content styling */
+        .content {
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Login/Logout Button -->
+    <button id="authButton" onclick="handleAuth()">Login</button>
+
+    <!-- Page content -->
+    <div class="content">
+        <h1>Welcome to My Website</h1>
+        <p>This is some page content.</p>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        let isLoggedIn = false; // Initial state as not logged in
+
+        function handleAuth() {
+            const button = document.getElementById("authButton");
+
+            if (isLoggedIn) {
+                // Simulate logging out
+                button.textContent = "Login";
+                button.style.backgroundColor = "#4CAF50"; // Change color to green
+                alert("You have been logged out."); // Simulate logout action
+
+                // Optionally, redirect to a different page after logout
+                window.location.href = "index.html"; // Replace with your homepage or another page
+            } else {
+                // Redirect to the login page when the user clicks "Login"
+                window.location.href = "loginpage.html"; // Replace with your actual login page URL
+            }
+
+            isLoggedIn = !isLoggedIn; // Toggle login state
+        }
+    </script>
+
+</body>
+</html>
+
+            <!-- Rest of the content -->
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book a Test</title>
+    <link rel="stylesheet" href="styletest.css">
+</head>
+<body>
+    <header>
+        <h1>Book a Test</h1>
+    </header>
+
+    <main>
+        <form id="testBookingForm">
+            <label for="hospital">Select Hospital:</label>
+            <select id="hospital" name="hospital" required>
+                <option value="">--Select Hospital--</option>
+                <option value="cityHospital">City Hospital</option>
+                <option value="apolloHospital">Apollo Hospital</option>
+                <option value="fortisHospital">Fortis Hospital</option>
+                <!-- Add more hospitals here -->
+            </select>
+
+            <label for="test">Select Test:</label>
+            <select id="test" name="test" required>
+                <option value="">--Select Test--</option>
+                <option value="bloodTest">Blood Test   200Rs</option>
+                <option value="xray">X-Ray   5000Rs</option>
+                <option value="mri">MRI Scan   8000Rs</option>
+                <option value="ctScan">CT Scan 9000Rs</option>
+                <!-- Add more tests here -->
+            </select>
+
+            <label for="date">Select Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="slot">Available Slots:</label>
+            <select id="slot" name="slot" required>
+                <option value="">--Select Slot--</option>
+                <option value="9am-10am">9:00 AM - 10:00 AM</option>
+                <option value="10am-11am">10:00 AM - 11:00 AM</option>
+                <option value="11am-12pm">11:00 AM - 12:00 PM</option>
+                <option value="12pm-1pm">12:00 PM - 1:00 PM</option>
+                <!-- Add more slots here -->
+            </select>
+
+            <button type="submit" class="button">Book Test</button>
+        </form>
+    </main>
+
+    <script>
+        document.getElementById('testBookingForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const hospital = document.getElementById('hospital').value;
+            const test = document.getElementById('test').value;
+            const date = document.getElementById('date').value;
+            const slot = document.getElementById('slot').value;
+
+            if (hospital && test && date && slot) {
+                alert(`Test booked at ${hospital} for ${test} on ${date} during ${slot}.`);
+            } else {
+                alert('Please fill all the fields.');
+            }
+        });
+    </script>
+</body>
+</html>

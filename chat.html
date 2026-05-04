@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Chat with Doctor</title>
+    <link rel="stylesheet" href="stylesview.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Chat with Your Doctor</h1>
+        <div class="chat-window">
+            <div class="messages">
+                <div class="message doctor">Hello! How can I assist you today?</div>
+            </div>
+            <input type="text" class="chat-input" placeholder="Type your message...">
+            <button class="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script>
+        // Simple chat functionality simulation
+        document.querySelector('.send-btn').onclick = function() {
+            var input = document.querySelector('.chat-input').value;
+            if (input) {
+                var newMessage = document.createElement('div');
+                newMessage.className = 'message user';
+                newMessage.innerText = input;
+                document.querySelector('.messages').appendChild(newMessage);
+                document.querySelector('.chat-input').value = '';
+            }
+        }
+    </script>
+</body>
+</html>

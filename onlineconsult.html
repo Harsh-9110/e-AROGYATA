@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consult Online Now</title>
+    <link rel="stylesheet" href="stylesconsult.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Consult a Doctor Online Instantly</h1>
+        <form id="consultationForm">
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+            
+            <div class="communication-options">
+                <p>Select how you'd like to connect:</p>
+                <label>
+                    <input type="radio" name="contactMethod" value="chat" required> Online Chat
+                </label>
+                <label>
+                    <input type="radio" name="contactMethod" value="video"> Video Call
+                </label>
+                <label>
+                    <input type="radio" name="contactMethod" value="phone"> Telephone
+                </label>
+            </div>
+            
+            <button type="submit">Connect Now</button>
+        </form>
+        <div id="waitingMessage" class="hidden">
+            <p>Connecting you to a doctor, please wait...</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("consultationForm").onsubmit = function(event) {
+            event.preventDefault();
+            var selectedMethod = document.querySelector('input[name="contactMethod"]:checked').value;
+
+            document.getElementById("waitingMessage").classList.remove("hidden");
+
+            // Wait 5 seconds before redirecting to the appropriate page
+            setTimeout(function() {
+                if (selectedMethod === 'chat') {
+                    window.location.href = 'chat.html';
+                } else if (selectedMethod === 'video') {
+                    window.location.href = 'video.html';
+                } else if (selectedMethod === 'phone') {
+                    window.location.href = 'telephone.html';
+                }
+            }, 5000); // Simulating a wait time
+        }
+    </script>
+</body>
+</html>

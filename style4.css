@@ -1,0 +1,217 @@
+.com .header {
+    position: absolute;
+    width: 1440px;
+    height: 118px;
+    top: 0;
+    left: 6px;
+    background-color: transparent;
+}
+
+.com .overlap-2 {
+    position: relative;
+    width: 1327px;
+    height: 104px;
+    top: 14px;
+    left: 43px;
+}
+
+.com .img {
+    position:absolute;
+    width: 64px;
+    height: 62px;
+    top: -18px;
+    left: 0;
+  }
+  
+
+.com .section-2 {
+    position: absolute;
+    width: 1300px;
+    height: 104px;
+    top: 0;
+    left: 27px;
+}
+
+.com .link-cityhospital {
+    position: absolute;
+    width: 154px;
+    height: 29px;
+    top: -3px;
+    left: 48px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #428d78;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.com .overlap-group-2 {
+    width: 1096px;
+    height: 81px;
+    top: -25px;
+    left: 230px;
+    border-radius: 100px;
+    position: absolute;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 16px #0000001a;
+}
+
+.com .wix-dropdown-menu {
+    position: absolute;
+    width: 867px;
+    height: 50px;
+    top: 18px;
+    left: 14px;
+    background-color: #eee8d8;
+    border-radius: 80px;
+}
+
+.com .item {
+    width: 174px;
+    left: 0;
+    border-radius: 80px 0px 0px 80px;
+    position: absolute;
+    height: 50px;
+    top: 0;
+}
+
+.com .link-find-a-doctor {
+    position: absolute;
+    width: 91px;
+    height: 35px;
+    top: -1px;
+    left: 42px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #696969;
+    font-size: 14.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+.com .link-book-bed-wrapper {
+    width: 174px;
+    left: 174px;
+    position: absolute;
+    height: 50px;
+    top: 0;
+}
+
+.com .link-book-bed {
+    width: 64px;
+    left: 56px;
+    font-size: 14.1px;
+    position: absolute;
+    height: 35px;
+    top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #696969;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+.com .link-patient-wrapper {
+    width: 173px;
+    left: 348px;
+    position: absolute;
+    height: 50px;
+    top: 0;
+}
+
+.com .link-patient {
+    position: absolute;
+    width: 125px;
+    height: 35px;
+    top: -1px;
+    left: 25px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #696969;
+    font-size: 13.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+.com .link-buy-medicines-wrapper {
+    width: 173px;
+    left: 521px;
+    position: absolute;
+    height: 50px;
+    top: 0;
+}
+
+.com .link-buy-medicines {
+    position: absolute;
+    width: 96px;
+    height: 35px;
+    top: -1px;
+    left: 40px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #696969;
+    font-size: 13.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+.com .link-book-test-wrapper {
+    width: 173px;
+    left: 694px;
+    border-radius: 0px 80px 80px 0px;
+    position: absolute;
+    height: 50px;
+    top: 0;
+}
+
+.com .link-book-test {
+    width: 62px;
+    left: 57px;
+    font-size: 13px;
+    position: absolute;
+    height: 35px;
+    top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #696969;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+}
+
+.com .link-2 {
+    position: absolute;
+    width: 194px;
+    height: 50px;
+    top: 15px;
+    left: 886px;
+    background-color: #438e79;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: #428d78;
+}
+
+.com .text-wrapper-3 {
+    position: absolute;
+    width: 170px;
+    height: 21px;
+    top: 12px;
+    left: 12px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16.5px;
+    letter-spacing: 0;
+    line-height: 23.8px;
+    white-space: nowrap;
+}

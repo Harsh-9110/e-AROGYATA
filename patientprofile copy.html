@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .profile-container {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        .profile-details {
+            margin: 20px 0;
+        }
+        .profile-details p {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+        .dropdown-container {
+            margin-top: 20px;
+            border-top: 1px solid #ccc;
+            padding-top: 10px;
+        }
+        .dropdown-header {
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .dropdown-content {
+            display: none;
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+        .dropdown-content ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <h2>User Profile</h2>
+        <div class="profile-details">
+            <p><strong>Name:</strong> abc</p>
+            <p><strong>Email:</strong> abc@example.com</p>
+            <p><strong>Phone:</strong> 123-456-7890</p>
+            <p><strong>Patient ID:</strong> 1111111</p>
+        </div>
+        <div class="dropdown-container">
+            <div class="dropdown-header" onclick="toggleDropdown()">Show Past Details</div>
+            <div class="dropdown-content" id="dropdown">
+                <ul>
+                    <li>Past test results</li>
+                    <li>Patient at City Hospital from 2016 to 2019</li>
+                    <li>Current Condition</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            var dropdown = document.getElementById("dropdown");
+            if (dropdown.style.display === "none" || dropdown.style.display === "") {
+                dropdown.style.display = "block";
+            } else {
+                dropdown.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F9F1E6;
+    color: #012241;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #428D78;
+    color: #F9F1E6;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.medicine-list li, .cart-list li {
+    background-color: #012241;
+    color: #F9F1E6;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.medicine-list button, .button {
+    background-color: #428D78;
+    color: #F9F1E6;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover, .medicine-list button:hover {
+    background-color: #012241;
+    color: #F9F1E6;
+}
+
+form {
+    background-color: #012241;
+    padding: 20px;
+    border-radius: 5px;
+    color: #F9F1E6;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form input {
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+form button {
+    width: 100%;
+}
