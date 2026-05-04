@@ -316,9 +316,6 @@ For support or inquiries, please contact:
 
 ---
 
-## 📄 License
-
-[Add your license information here]
 
 ---
 
