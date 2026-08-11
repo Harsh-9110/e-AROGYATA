@@ -170,7 +170,7 @@
     top: 20px;
     left: 720px;
     background-color: #ffffff;
-    background-image: url(im127.webp);
+    background-image: url('../assets/images/im127.webp');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -444,7 +444,7 @@
     height: 328px;
     top: 1px;
     left: 1px;
-    background-image: url(im126.webp);
+    background-image: url('../assets/images/im126.webp');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -574,7 +574,7 @@
   
   .com .wow-image-group {
     height: 460px;
-    background-image: url(im125.webp);
+    background-image: url('../assets/images/im125.webp');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -670,7 +670,7 @@
   
   .com .wow-image-group-2 {
     height: 440px;
-    background-image: url(im124.webp);
+    background-image: url('../assets/images/im124.webp');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -1383,7 +1383,7 @@
     top: 0;
     left: 0;
     background-color: #febfcc;
-    background-image: url(im123.webp);
+    background-image: url('../assets/images/im123.webp');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -1690,7 +1690,7 @@
     height: 32px;
     top: 0;
     left: 38px;
-    background-image: url(images-removebg-preview.png);
+    background-image: url('../assets/images/images-removebg-preview.png');
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -1701,7 +1701,7 @@
     height: 32px;
     top: 0;
     left: 76px;
-    background-image: url(download-removebg-preview.png);
+    background-image: url('../assets/images/download-removebg-preview.png');
     background-size: cover;
     background-position: 50% 50%;
   }

@@ -14,6 +14,19 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static frontend files
 app.use(express.static(path.join(__dirname)));
 
+// Image Fallback Middleware (Serves images from assets/images if requested directly)
+const fs = require('fs');
+app.use((req, res, next) => {
+  if (req.path.match(/\.(png|jpg|jpeg|webp|gif|svg)$/i)) {
+    const filename = path.basename(req.path);
+    const imagePath = path.join(__dirname, 'assets', 'images', filename);
+    if (fs.existsSync(imagePath)) {
+      return res.sendFile(imagePath);
+    }
+  }
+  next();
+});
+
 // Initialize Persistent Database
 initDB();
 
