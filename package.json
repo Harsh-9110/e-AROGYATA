@@ -1,0 +1,29 @@
+{
+  "name": "e-arogyata",
+  "version": "1.0.0",
+  "description": "e-AROGYATA - Smart Hospital Platform API & Full Stack Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite3": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh-9110/e-AROGYATA.git"
+  },
+  "keywords": [
+    "healthcare",
+    "hospital-management",
+    "opd-queue",
+    "bed-management"
+  ],
+  "author": "Harsh Kumar",
+  "license": "ISC"
+}

@@ -5,48 +5,67 @@ LOGIN PAGE RIGHT
 
 
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - codingnepalweb.com -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Login & Registration Form</title>
-  <!---Custom CSS File--->
+  <title>e-AROGYATA — Login & Registration</title>
   <link rel="stylesheet" href="styleslogin.css">
 </head>
 <body>
   <div class="container">
     <input type="checkbox" id="check">
     <div class="login form">
-      <header>Login</header>
-      <form action="#">
-        <input type="text" placeholder="Patient ID">
-        <input type="password" placeholder="Enter your password">
+      <header>e-AROGYATA Login</header>
+      <form id="login-form">
+        <input type="email" name="email" placeholder="Enter your email" required value="harsh@example.com">
+        <input type="password" name="password" placeholder="Enter your password" required value="password123">
         <a href="#">Forgot password?</a>
-        <input type="button" class="button" value="Login">
+        <input type="submit" class="button" value="Login to Portal">
       </form>
       <div class="signup">
-        <span class="signup">New Patient
-         <label for="check">Signup</label>
+        <span class="signup">New Patient?
+         <label for="check">Signup here</label>
         </span>
       </div>
     </div>
+
     <div class="registration form">
-      <header>Signup</header>
-      <form action="#">
-        <input type="text" placeholder="Enter your email">
-        <input type="password" placeholder="Create a password">
-        <input type="password" placeholder="Confirm your password">
-        <input type="number" placeholder="Enter your Age">
-        <input type="button" class="button" value="Signup">
+      <header>Create Account</header>
+      <form id="signup-form">
+        <input type="text" id="reg-name" placeholder="Full Name" required>
+        <input type="email" id="reg-email" placeholder="Email Address" required>
+        <input type="password" id="reg-password" placeholder="Create Password" required>
+        <input type="tel" id="reg-phone" placeholder="Phone Number">
+        <input type="submit" class="button" value="Register Now">
       </form>
       <div class="signup">
-        <span class="signup">Already a Patient
+        <span class="signup">Already registered?
          <label for="check">Login</label>
         </span>
       </div>
     </div>
   </div>
+
+  <script src="api-client.js"></script>
+  <script>
+    document.getElementById('signup-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const name = document.getElementById('reg-name').value;
+      const email = document.getElementById('reg-email').value;
+      const password = document.getElementById('reg-password').value;
+      const phone = document.getElementById('reg-phone').value;
+
+      try {
+        const res = await eArogyataAPI.apiRequest('/auth/signup', 'POST', { name, email, password, phone, role: 'PATIENT' });
+        localStorage.setItem('earogyata_token', res.token);
+        localStorage.setItem('earogyata_user', JSON.stringify(res.user));
+        eArogyataAPI.showToast('🎉 Account created! Redirecting to profile...', 'success');
+        setTimeout(() => window.location.href = 'patientprofile.html', 1200);
+      } catch (err) {
+        eArogyataAPI.showToast('Registration Error: ' + err.message, 'error');
+      }
+    });
+  </script>
 </body>
 </html>
